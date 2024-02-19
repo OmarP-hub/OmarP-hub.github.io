@@ -1,0 +1,9 @@
+.p1 {
+  border: solid 2px black;
+  font-weight: bold;
+  font-size: medium;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: beige;
+  color: black;
+}
